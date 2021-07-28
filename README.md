@@ -4,9 +4,9 @@ I am a full-stack developer with 7 years of experience in building scalable and 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
-- 🌱 I've already built the large number of Defi Applications
-- 🤔 I’m looking to help with building Defi and web apps
-- 💬 Ask me about web and blockchain development changes
+- :computer: I've already built the large number of Frontend applications.
+- 🤔 I’m looking to help with building web and defi apps.
+- 💬 Ask me about web and blockchain development changes.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
