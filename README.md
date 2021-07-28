@@ -6,10 +6,7 @@ I am a full-stack developer with 7 years of experience in building scalable and 
 
 - 🌱 I've already built the large number of Defi Applications
 - 🤔 I’m looking to help with building Defi and web apps
-- 💬 Ask me about web and blockchain developmentCancel changes
-- 📫 How to reach me:
-  1) Email: web.master0307@gmail.com
-  2) Phone number: +1 (530) 425-6058‬
+- 💬 Ask me about web and blockchain development changes
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
