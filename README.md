@@ -1,14 +1,3 @@
-### Hello! 👋
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
-
-- :computer: I've already built the large number of Frontend applications.
-- 🤔 I’m looking to help with building web and defi apps.
-- 💬 Ask me about web and blockchain development changes.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
-
-
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
