@@ -1,7 +1,5 @@
 ### Hello! 👋
 
-I am a full-stack developer with 7 years of experience in building scalable and robust software for high traffic and enterprise-level websites. I've been instrumental in helping numerous businesses revamp their online presence with stunning and responsive sites that attract customers and drive sales using React.
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
 - :computer: I've already built the large number of Frontend applications.
